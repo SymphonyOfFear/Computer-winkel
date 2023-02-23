@@ -1,7 +1,7 @@
 <?php
 
-
 echo "Hier komt een overzicht van alle fabrikanten";
+
 require 'database.php';
 
 //de sql query
